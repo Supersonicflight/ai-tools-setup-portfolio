@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository documents my first setup step for the remote AI/ML portfolio assignment.
+This repository documents the completion of the first stage of a portfolio assignment for a remote role ( Junior growth marketing specialist )
 
 The objective of this step was to install the required AI development tools, create a public GitHub repository, and document the setup process clearly.
 
