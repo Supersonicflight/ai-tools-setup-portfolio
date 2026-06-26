@@ -1,11 +1,12 @@
-## Experts
+# Experts
 
-### 1. Chris Walker
+## 1. Chris Walker
 
-**Why Selected**
+### Why Selected
+
 B2B demand generation practitioner known for educational content and video-led marketing.
 
-**Primary Sources**
+### Primary Sources
 
 - YouTube
 - LinkedIn
@@ -13,12 +14,13 @@ B2B demand generation practitioner known for educational content and video-led m
 
 ---
 
-### 2. Ross Simmonds
+## 2. Ross Simmonds
 
-**Why Selected**
+### Why Selected
+
 B2B content distribution expert focused on repurposing and distributing content across channels.
 
-**Primary Sources**
+### Primary Sources
 
 - YouTube
 - LinkedIn
@@ -26,12 +28,13 @@ B2B content distribution expert focused on repurposing and distributing content 
 
 ---
 
-### 3. Dave Gerhardt
+## 3. Dave Gerhardt
 
-**Why Selected**
+### Why Selected
+
 B2B SaaS marketing practitioner and founder of Exit Five.
 
-**Primary Sources**
+### Primary Sources
 
 - LinkedIn
 - Exit Five
@@ -39,37 +42,27 @@ B2B SaaS marketing practitioner and founder of Exit Five.
 
 ---
 
-### 4. Amanda Natividad
+## 4. Amanda Natividad
 
-**Why Selected**
+### Why Selected
+
 Strong voice on audience research, zero-click content, and modern content strategy.
 
-**Primary Sources**
+### Primary Sources
 
 - LinkedIn
 - SparkToro
+- Podcast
 
 ---
 
-### 5. Samu Kovacs
+## 5. Samu Kovacs
 
-**Why Selected**
+### Why Selected
+
 Specialist in B2B YouTube marketing and SaaS video strategy.
 
-**Primary Sources**
-
-- YouTube
-- Podcast
-
-
-
-1. Adam Robinson
-
-Why Selected
-
-Founder-led growth practitioner known for audience building, personal branding, and modern B2B SaaS demand generation.
-
-Primary Sources
+### Primary Sources
 
 - YouTube
 - LinkedIn
@@ -77,13 +70,27 @@ Primary Sources
 
 ---
 
-1. April Dunford
+## 6. Adam Robinson
 
-Why Selected
+### Why Selected
+
+Founder-led growth practitioner known for audience building, personal branding, and modern B2B SaaS demand generation.
+
+### Primary Sources
+
+- YouTube
+- LinkedIn
+- Podcast
+
+---
+
+## 7. April Dunford
+
+### Why Selected
 
 Leading B2B positioning expert specializing in market positioning, messaging, and category creation.
 
-Primary Sources
+### Primary Sources
 
 - YouTube
 - LinkedIn
@@ -91,13 +98,13 @@ Primary Sources
 
 ---
 
-1. Kevin Indig
+## 8. Kevin Indig
 
-Why Selected
+### Why Selected
 
 Organic growth and AI search expert focused on SEO, AI discovery, and B2B content ecosystems.
 
-Primary Sources
+### Primary Sources
 
 - YouTube
 - LinkedIn
@@ -105,13 +112,13 @@ Primary Sources
 
 ---
 
-1. Tom Hunt
+## 9. Tom Hunt
 
-Why Selected
+### Why Selected
 
 B2B SaaS podcasting and pipeline generation practitioner specializing in content operations and audience growth.
 
-Primary Sources
+### Primary Sources
 
 - YouTube
 - LinkedIn
@@ -119,13 +126,13 @@ Primary Sources
 
 ---
 
-1. Lenny Rachitsky
+## 10. Lenny Rachitsky
 
-Why Selected
+### Why Selected
 
 Product-led growth and audience-building expert known for community development, product strategy, and creator-led business models.
 
-Primary Sources
+### Primary Sources
 
 - YouTube
 - LinkedIn
@@ -133,7 +140,7 @@ Primary Sources
 
 ---
 
-## Research Statistics
+# Research Statistics
 
 - Experts analyzed: 10
 - YouTube sources collected: 10
@@ -143,7 +150,7 @@ Primary Sources
 
 ---
 
-## Key Themes Identified
+# Key Themes Identified
 
 - Educational content outperforms promotional content
 - Founder-led content builds trust faster
@@ -156,7 +163,7 @@ Primary Sources
 
 ---
 
-## Tools Used
+# Tools Used
 
 - Cursor IDE
 - Claude Code
