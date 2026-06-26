@@ -62,10 +62,6 @@ This case demonstrates that founder-led educational content and organic audience
 
 Amanda Natividad featuring Talia Wolf
 
-### Video Link
-
-(Add YouTube link here)
-
 ### Topic
 
 Emotional targeting and customer-led B2B marketing.
@@ -132,8 +128,6 @@ Results:
 ### Relevance to B2B SaaS YouTube Strategy
 
 This research demonstrates that successful B2B video content should focus on customer emotions, trust building, and educational value rather than product features alone.
-
-# YouTube Transcript Analysis
 
 ---
 
