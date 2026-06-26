@@ -2,7 +2,7 @@
 
 ## Current Role
 
-Vice President of Marketing at SparkToro and one of the leading practitioners in audience research, zero-click marketing, and content strategy.
+Chief Evangelist at SparkToro and one of the leading practitioners in audience research, zero-click marketing, and content strategy.
 
 ## Why I Selected This Expert
 
