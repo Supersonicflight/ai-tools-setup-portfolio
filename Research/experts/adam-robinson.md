@@ -17,10 +17,10 @@ https://www.retention.com
 https://www.linkedin.com/in/adamcrobinson/
 
 ### YouTube
-(To be added)
+https://www.youtube.com/@retentionadam
 
 ### Podcast
-(To be added)
+https://www.youtube.com/@retentionadam
 
 ---
 
