@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository documents my first setup step for the remote AI/ML portfolio assignment.
+This repository documents the completion of the first stage of a portfolio assignment for a remote role ( Junior growth marketing specialist )
 
 The objective of this step was to install the required AI development tools, create a public GitHub repository, and document the setup process clearly.
 
@@ -70,10 +70,10 @@ This research project focuses on identifying high-signal practitioners who activ
 
 ## Repository Structure
 
-- `/research/sources.md` - List of selected experts with links, dates, and brief annotations
-- `/research/linkedin-posts/` - LinkedIn posts organized by author
-- `/research/youtube-transcripts/` - YouTube transcript notes organized by video
-- `/research/other/` - Additional research notes and materials
+- `/Research/sources.md` - List of selected experts with links, dates, and brief annotations
+- `/Research/linkedin-posts/` - LinkedIn posts organized by author
+- `/Research/youtube-transcripts/` - YouTube transcript notes organized by video
+- `/Research/other/` - Additional research notes and materials
 
 ## Current Progress
 
