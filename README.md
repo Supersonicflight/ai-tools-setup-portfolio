@@ -59,3 +59,26 @@ Through this step, I learned how to:
 ## Next Steps
 
 I am ready to continue with the next stage of the portfolio assignment.
+
+## ( TASK 2) Research Project
+
+**Chosen topic:** YouTube content strategy for B2B SaaS
+
+I chose this topic because YouTube is becoming an important channel for B2B SaaS companies to build trust, educate buyers, repurpose content, and create demand before prospects enter a sales process.
+
+This research project focuses on identifying high-signal practitioners who actively teach or practice B2B content, video, demand generation, and SaaS growth.
+
+## Repository Structure
+
+- `/research/sources.md` - List of selected experts with links, dates, and brief annotations
+- `/research/linkedin-posts/` - LinkedIn posts organized by author
+- `/research/youtube-transcripts/` - YouTube transcript notes organized by video
+- `/research/other/` - Additional research notes and materials
+
+## Current Progress
+
+- Selected research topic
+- Created repository structure
+- Identified 10 high-signal practitioners
+- Started organizing sources by expert
+- Added initial research notes
